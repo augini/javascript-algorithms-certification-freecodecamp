@@ -1,7 +1,4 @@
-# Javascript-Algorithms-Certification-FreeCodeCamp
-
-### This repository lists the projects I have built as part of FreeCodeCamp Certifications. :bowtie:
-
+# Javascript-Algorithms-Certification-FreeCodeCamp :bowtie:
 
 <details>
            <summary>Projects</summary>
@@ -11,7 +8,6 @@
            <p>Project 4: Phone Number Validator</p>
            <p>Project 5: Cash Register</p>
 </details>
-
 
 ![photo](https://github.com/augini/javascript-algorithms-certification-freecodecamp/blob/master/certification.png)
 
