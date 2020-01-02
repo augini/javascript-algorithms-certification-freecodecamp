@@ -5,7 +5,7 @@
 
 <details>
            <summary>Projects</summary>
-           <p>Project 1: Palindrome Checker</p>
+           <p>          Project 1: Palindrome Checker</p>
            <p>Project 2: Roman Numeral Converter</p>
            <p>Project 3: Caesars Cipher</p>
            <p>Project 4: Phone Number Validator</p>
