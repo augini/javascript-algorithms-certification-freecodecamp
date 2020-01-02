@@ -1,4 +1,4 @@
-# Javascript-Algorithms-Certification-Freecodecamp
+# Javascript-Algorithms-Certification-FreeCodeCamp
 
 ### This repository lists the projects I have built as part of FreeCodeCamp Certifications. :bowtie:
 
