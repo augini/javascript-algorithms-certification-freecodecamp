@@ -1,7 +1,9 @@
 # Javascript-Algorithms-Certification-FreeCodeCamp :bowtie:
 
-[View Credentials](https://www.freecodecamp.org/certification/farrukhbek/javascript-algorithms-and-data-structures)
+
 ![photo](https://github.com/augini/javascript-algorithms-certification-freecodecamp/blob/master/certification.png)
+
+[View Credentials](https://www.freecodecamp.org/certification/farrukhbek/javascript-algorithms-and-data-structures)
 
 <details>
            <summary>Projects</summary>
