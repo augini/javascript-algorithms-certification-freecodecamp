@@ -22,6 +22,7 @@ The following instructions assume you have JavaScript environment all set. If no
 **Step 3:** Change the present working directory to the downloaded project folder. This can be done by entering the following command (make sure to change the path to where the project was downloaded).
 
 `cd path/to/project`
+
 Open the index.html with live server
 
 
