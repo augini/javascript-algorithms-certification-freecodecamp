@@ -4,4 +4,4 @@
 
 [Certification](https://www.freecodecamp.org/certification/farrukhbek/javascript-algorithms-and-data-structures)
 
-[photo](https://github.com/augini/javascript-algorithms-certification-freecodecamp/blob/master/certification.png)
+![photo](https://github.com/augini/javascript-algorithms-certification-freecodecamp/blob/master/certification.png)
